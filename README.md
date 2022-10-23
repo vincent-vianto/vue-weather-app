@@ -1,4 +1,4 @@
-# vue_todolistapp
+# vue_weatherapp
 
 ## Project setup
 ```
